@@ -6,7 +6,7 @@
 * **Mã số sinh viên:** 24810320120
 * **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
 
-* **Link Repository:** https://github.com/luny120/C-.NET-TranTheHao-23_10
+* **Link Repository:** [https://github.com/luny120/C-.NET-TranTheHao-23_10](https://github.com/luny120/C-.NET-TranTheHao-23_10_26/tree/main)
 
 ---
 
