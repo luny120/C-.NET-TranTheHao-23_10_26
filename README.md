@@ -6,7 +6,7 @@
 * **Mã số sinh viên:** 24810320120
 * **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
 
-* **Link Repository:** [https://github.com/luny120/C-.NET-TranTheHao-23_10](https://github.com/luny120/C-.NET-TranTheHao-23_10_26/tree/main)
+* **Link Repository:** [https://github.com/luny120/C-.NET-TranTheHao-23_10_26](https://github.com/luny120/C-.NET-TranTheHao-23_10_26/tree/main)
 
 ---
 
@@ -75,7 +75,7 @@
 1. Clone Repository về máy:
 
 ```bash
-git clone https://github.com/luny120/C-.NET-TranTheHao-23_10.git
+git clone https://github.com/luny120/C-.NET-TranTheHao-23_10_26.git
 ```
 
 2. Mở file solution `src/WinFormsAppSolution.sln` bằng Visual Studio 2022.
